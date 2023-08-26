@@ -32,9 +32,11 @@
 
 ## 装置画像
 
-![screenshot](https://github.com/led-mirage/Raspi4-WebCam-Recorder/assets/139528700/8ac1fb62-a812-45c4-b1ae-10e953324fb7)
+![screenshot](https://github.com/led-mirage/Raspi4-WebCam-TimeLapse/assets/139528700/4b86e4ba-3b97-4b20-9951-ecbf89e5980f)
 
 ## サンプル動画
+
+https://github.com/led-mirage/Raspi4-WebCam-TimeLapse/assets/139528700/7e9e7821-0437-49e4-a928-e6a12c842c4b
 
 解像度：1920 x 1080　インターバル：5秒　撮影時間：33分　FPS：30　動画時間：13秒
 
