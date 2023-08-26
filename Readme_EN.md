@@ -32,11 +32,11 @@ The webcam used is the Logicool C922n PRO.
 
 ## Device Image
 
-![screenshot](https://github.com/led-mirage/Raspi4-WebCam-TimeLapse/assets/139528700/4b86e4ba-3b97-4b20-9951-ecbf89e5980f)
+![screenshot](https://github.com/led-mirage/Raspi4-WebCam-TimeLapse/assets/139528700/c3438c50-3738-4d17-8c78-59dc3bde44a3)
 
 ## Sample Video
 
-https://github.com/led-mirage/Raspi4-WebCam-TimeLapse/assets/139528700/34f8c1a1-4a4c-4b2d-8c03-2412367cead2
+https://github.com/led-mirage/Raspi4-WebCam-TimeLapse/assets/139528700/c538c1da-742f-4a9d-9cda-dc92b109d6ff
 
 Resolution: 1920 x 1080, Interval: 5 seconds, Capture Time: 30 minutes, FPS: 30, Video Duration: 12 seconds
 
