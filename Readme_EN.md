@@ -38,7 +38,7 @@ The webcam used is the Logicool C922n PRO.
 
 https://github.com/led-mirage/Raspi4-WebCam-TimeLapse/assets/139528700/34f8c1a1-4a4c-4b2d-8c03-2412367cead2
 
-Resolution: 1920 x 1080, Interval: 5 seconds, Capture Time: 33 minutes, FPS: 30, Video Duration: 13 seconds
+Resolution: 1920 x 1080, Interval: 5 seconds, Capture Time: 30 minutes, FPS: 30, Video Duration: 12 seconds
 
 ## Execution Environment
 
